@@ -1,9 +1,11 @@
-package app.gweather.com.gweather;
+package app.gweather.com.gweather.activity;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import app.gweather.com.gweather.R;
 
 
 public class MainActivity extends ActionBarActivity {
